@@ -1,0 +1,266 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaf2f7d828448401da727dabefabc09c, type: 3}
+  m_Name: ItemData
+  m_EditorClassIdentifier: 
+  items:
+  - icon: {fileID: 21300000, guid: 30ed6edff16644fc0aa66212aaeba03c, type: 3}
+    itemName: Ariel Shoes
+    description: Armor
+    itemRarity: 5
+    itemType: 3
+    damage: 0
+    defence: 16
+    strength: 4
+    agility: 5
+    intel: 7
+    isEquipped: 0
+    Id: 9cc4209a-5123-4c86-8218-b95efd39f987
+  - icon: {fileID: 21300000, guid: 1c9d6ee054c9943fa9646b3962f886c7, type: 3}
+    itemName: Cleric Shoes
+    description: Armor
+    itemRarity: 1
+    itemType: 3
+    damage: 0
+    defence: 14
+    strength: 4
+    agility: 3
+    intel: 9
+    isEquipped: 0
+    Id: 3bbc9350-4d69-48f0-8015-a61dbd163ee7
+  - icon: {fileID: 21300000, guid: 40c64811ae62e4c418050e77482d3e29, type: 3}
+    itemName: Ariel Plate
+    description: Armor
+    itemRarity: 2
+    itemType: 2
+    damage: 0
+    defence: 24
+    strength: 8
+    agility: 4
+    intel: 2
+    isEquipped: 0
+    Id: 3785e654-fc16-49c6-a26e-dd5d217656ad
+  - icon: {fileID: 21300000, guid: ff5ca1e4456fc49edb72fdf0dcdc2820, type: 3}
+    itemName: Ariel Shoes
+    description: Armor
+    itemRarity: 3
+    itemType: 3
+    damage: 0
+    defence: 16
+    strength: 4
+    agility: 5
+    intel: 7
+    isEquipped: 0
+    Id: 5a56948c-903b-4beb-a759-ece4f2009278
+  - icon: {fileID: 21300000, guid: 36d54474744e74c64ad1a44b32e8d577, type: 3}
+    itemName: Guard Shoes
+    description: Armor
+    itemRarity: 4
+    itemType: 2
+    damage: 0
+    defence: 16
+    strength: 8
+    agility: 4
+    intel: 5
+    isEquipped: 0
+    Id: 334ac075-6032-4d9a-8632-9494fbd5fbdd
+  - icon: {fileID: 21300000, guid: 5514d0abba561483cb2da50dece7455c, type: 3}
+    itemName: Battle Arrow
+    description: Weapon
+    itemRarity: 1
+    itemType: 0
+    damage: 10
+    defence: 0
+    strength: 2
+    agility: 5
+    intel: 6
+    isEquipped: 0
+    Id: 926d36fa-126d-44df-83c4-debc6b2fd63d
+  - icon: {fileID: 21300000, guid: 358e5db28f0154c0494917cdb5910505, type: 3}
+    itemName: Battle Bow
+    description: Weapon
+    itemRarity: 2
+    itemType: 0
+    damage: 16
+    defence: 2
+    strength: 4
+    agility: 7
+    intel: 5
+    isEquipped: 0
+    Id: 9bf351b6-add5-4be6-b8c8-10670f6786f7
+  - icon: {fileID: 21300000, guid: 43e1e9901255f4f368f15d4e8290968f, type: 3}
+    itemName: Bowman Hat
+    description: Armor
+    itemRarity: 3
+    itemType: 1
+    damage: 0
+    defence: 16
+    strength: 4
+    agility: 7
+    intel: 6
+    isEquipped: 0
+    Id: 7ba1e5c9-d92c-4bdc-b0a3-3eb053752cec
+  - icon: {fileID: 21300000, guid: fe06dbdab9c82403599f53a770d64e0d, type: 3}
+    itemName: Broad Sword
+    description: Weapon
+    itemRarity: 3
+    itemType: 0
+    damage: 19
+    defence: 2
+    strength: 10
+    agility: 2
+    intel: 3
+    isEquipped: 0
+    Id: b604f2cb-49e3-4284-8160-8d727ee8b460
+  - icon: {fileID: 21300000, guid: d47a239c6b7874dd39d037913e80a983, type: 3}
+    itemName: Bowman Hat
+    description: Armor
+    itemRarity: 5
+    itemType: 1
+    damage: 0
+    defence: 16
+    strength: 4
+    agility: 7
+    intel: 6
+    isEquipped: 0
+    Id: df490502-cc51-474d-8c32-a41d0e538cec
+  - icon: {fileID: 21300000, guid: 8c097623638dc46e785360203330eeae, type: 3}
+    itemName: Broad Sword
+    description: Weapon
+    itemRarity: 1
+    itemType: 0
+    damage: 19
+    defence: 2
+    strength: 10
+    agility: 2
+    intel: 3
+    isEquipped: 0
+    Id: e0425699-a7e4-4093-b18a-36200746d8b6
+  - icon: {fileID: 21300000, guid: 23eed6507576e4f699b047f55cad49aa, type: 3}
+    itemName: Chainmail
+    description: Armor
+    itemRarity: 3
+    itemType: 2
+    damage: 0
+    defence: 20
+    strength: 10
+    agility: 1
+    intel: 2
+    isEquipped: 0
+    Id: a763dc02-7971-406e-9db8-6fb0063e0a2a
+  - icon: {fileID: 21300000, guid: c10e0228e3d7f4a6988dbd15b67ef4d1, type: 3}
+    itemName: Cleric Hood
+    description: Armor
+    itemRarity: 2
+    itemType: 1
+    damage: 0
+    defence: 12
+    strength: 3
+    agility: 5
+    intel: 8
+    isEquipped: 0
+    Id: 1761f30d-fe4e-4179-84e2-6328662e7628
+  - icon: {fileID: 21300000, guid: b8b029fd572c5473ba10467c759cdde1, type: 3}
+    itemName: Cleric Hood
+    description: Armor
+    itemRarity: 4
+    itemType: 1
+    damage: 0
+    defence: 12
+    strength: 3
+    agility: 5
+    intel: 8
+    isEquipped: 0
+    Id: ffd9fc89-5619-4408-a6fb-c2537f74ebc6
+  - icon: {fileID: 21300000, guid: cec292f6a4551401a903174aef362956, type: 3}
+    itemName: Cleric Wand
+    description: Weapon
+    itemRarity: 2
+    itemType: 0
+    damage: 12
+    defence: 1
+    strength: 2
+    agility: 5
+    intel: 8
+    isEquipped: 0
+    Id: b3c72e6e-023c-492e-a0c1-b1fec08c028e
+  - icon: {fileID: 21300000, guid: 68d9b8f602e7348f99ea5f1886da940c, type: 3}
+    itemName: Cleric Wand
+    description: Weapon
+    itemRarity: 1
+    itemType: 0
+    damage: 12
+    defence: 1
+    strength: 2
+    agility: 5
+    intel: 8
+    isEquipped: 0
+    Id: d829e3b0-6b4f-47c0-9b4a-a0f7f4710ac9
+  - icon: {fileID: 21300000, guid: 1f975f165252f46f48ae15eaf96aa55b, type: 3}
+    itemName: Hunter Hat
+    description: Armor
+    itemRarity: 3
+    itemType: 1
+    damage: 0
+    defence: 12
+    strength: 5
+    agility: 9
+    intel: 7
+    isEquipped: 0
+    Id: 7057288c-03f5-4786-8e93-aeb2704d6246
+  - icon: {fileID: 21300000, guid: f41e5292d36e44e15afa8fcc6dbb8992, type: 3}
+    itemName: Family Sword
+    description: Weapon
+    itemRarity: 1
+    itemType: 0
+    damage: 16
+    defence: 1
+    strength: 8
+    agility: 6
+    intel: 5
+    isEquipped: 0
+    Id: 7c6b1344-b6ca-4479-9c1f-1d608888dcac
+  - icon: {fileID: 21300000, guid: e0df41f9cc4964050a4b2b08d6dd2ac9, type: 3}
+    itemName: Fire Robes
+    description: Armor
+    itemRarity: 4
+    itemType: 2
+    damage: 0
+    defence: 6
+    strength: 5
+    agility: 10
+    intel: 11
+    isEquipped: 0
+    Id: f5af71fd-32e9-4815-9d29-7323591b42bc
+  - icon: {fileID: 21300000, guid: 3eef0d1e1e1f44a7fb401f72a2cb461b, type: 3}
+    itemName: Fire Wand
+    description: Weapon
+    itemRarity: 5
+    itemType: 0
+    damage: 14
+    defence: 1
+    strength: 3
+    agility: 6
+    intel: 8
+    isEquipped: 0
+    Id: 11b6a843-260e-4eff-a52d-d96c867c5e8f
+  - icon: {fileID: 21300000, guid: f7fd5e1afdea24369ae0c90f5da937f6, type: 3}
+    itemName: Hermit Hat
+    description: Armor
+    itemRarity: 1
+    itemType: 1
+    damage: 0
+    defence: 4
+    strength: 4
+    agility: 8
+    intel: 8
+    isEquipped: 0
+    Id: def72b1a-07bd-4caf-bfcb-1edc79788f25
