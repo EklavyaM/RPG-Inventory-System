@@ -6,7 +6,7 @@ public static class FileReadWrite
 {
     public static void WriteToBinaryFile<T>(string filePath, T data)
     {
-        using (Stream stream = File.Open(filePath, FileMode.Truncate))
+        using (Stream stream = File.Open(filePath, FileMode.Create))
         {
             var binaryFormatter = new BinaryFormatter();
             binaryFormatter.Serialize(stream, data);
