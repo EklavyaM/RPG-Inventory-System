@@ -64,7 +64,7 @@ MonoBehaviour:
     itemName: Guard Shoes
     description: Armor
     itemRarity: 4
-    itemType: 2
+    itemType: 3
     damage: 0
     defence: 16
     strength: 8
