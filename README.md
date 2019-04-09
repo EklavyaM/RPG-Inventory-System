@@ -1,2 +1,7 @@
 # RPG-Inventory-System
-An inventory system built in Unity3d.
+
+A Scalable and Robust RPG Inventory Management System made in Unity3D. Including:
+
+- Persistent Inventory State 
+- Item Sorting
+- Character Stats
